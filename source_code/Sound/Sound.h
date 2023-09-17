@@ -1,0 +1,1 @@
+void sound_ms(unsigned int time_ms);
